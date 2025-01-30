@@ -47,9 +47,4 @@ A simple and interactive Tic-Tac-Toe game built for Android. This project demons
 3. The game checks for a winner or a draw.
 4. If a player wins, a message is displayed.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
----
-
 💡 Developed by **[Rupam Mondal](https://github.com/Rupam012)**
